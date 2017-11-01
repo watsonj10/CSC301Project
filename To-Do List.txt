@@ -1,0 +1,4 @@
+Look up how to build a nice website for lukas.
+Work on csc 301 homework.
+do this to make variable passable in sql database
+in csc 301, $term = '%' . $term . '%';
