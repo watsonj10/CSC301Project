@@ -1,0 +1,171 @@
+<style>
+
+#center
+{
+    position: absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    clear: both;
+}
+
+#centerlogin1
+{
+    position: absolute;
+    font-size: 20px;
+    left: 20%;
+    clear: both;
+}
+
+#centerlogin2
+{
+    position: absolute;
+    font-size: 20px;
+    left: 20%;
+    clear: both;
+}
+
+body
+{
+    background-color: forestgreen;
+    opacity: 0.8;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+#loginform
+{
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    border: 2px solid grey;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 200%;
+    top: 20%;
+    clear: both;
+    
+}
+
+form
+{
+    position: absolute;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    border: 2px solid grey;
+    padding: 10px;
+    left: 40%;
+    top:160px;
+    clear: both;
+}
+
+#addform
+{
+    position: absolute;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    border: 2px solid grey;
+    padding: 10px;
+    left: 40%;
+    top:100px;
+    clear: both;
+}
+
+html
+{
+    background-image: url("mosstexture.jpg");
+    background-repeat: repeat;
+}
+
+h1
+{
+    position: absolute;
+    text-align: center;
+    left: 45%;
+    clear: both;
+}
+
+input
+{
+    width: 300px;
+    height: 30px;
+}
+
+u
+{
+    position: absolute;
+    font-size: 50px;
+    text-align: center;
+    left: 30%;
+    
+}
+
+a
+{
+    position: relative;
+    margin-left: 10%;
+    font-size: 30px;
+    padding: 5px;
+    clear: both;
+}
+
+b
+{
+    position: absolute;
+    margin: auto;
+    width: 82%;
+    text-align: center;
+    font-size: 100px;
+    clear: both;
+    background-color: #CCC49F;
+    font-family: italic;
+}
+
+footer {
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 10px;
+	background-color: #CCC49F;
+	position: relative;/* this gives IE6 hasLayout to properly clear */
+    text-align: center;
+	clear: both; /* this clear property forces the .container to understand where the columns end and contain them */
+	margin-top: 25px;
+}
+
+img
+{
+    position: relative;
+    top: 100px;
+    padding: 10px;
+    left: 45%;
+    
+}
+
+#pictures
+{
+    position: relative;
+    top: 100px;
+    height: 1600px;
+}
+
+#homepages
+{
+    position: absolute;
+    width: 600px;
+    text-align: center;
+    font-size: 25px;
+    left: 5%;
+    color: sandybrown;
+}
+
+a:hover
+{
+    color: burlywood;
+}
+
+</style>
